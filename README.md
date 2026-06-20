@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm M. Rifqi Ardani</h1>
+<h1 align="center">Hi there 👋, I'm Muhammad Rifqi Ardani</h1>
 
 <h3 align="center">Information Systems Graduate | Web & Backend Developer | Cloud & ML Enthusiast</h3>
 
@@ -13,13 +13,13 @@
 
 ---
 
-I am passionate about building scalable web applications, designing robust cloud infrastructure, and creating data-driven solutions. With a strong foundation in both traditional backend architectures and modern machine learning concepts, I love solving complex problems from the database level up to deployment.
+**I am passionate about building scalable web applications, designing robust cloud infrastructure, and creating data-driven solutions. With a strong foundation in both traditional backend architectures and modern machine learning concepts, I love solving complex problems from the database level up to deployment. I have experience in web development, database management, cloud computing, and machine learning projects.**
 
 ### 🚀 Quick Facts
-- 🎓 **Education:** Information Systems Graduate from Universitas Negeri Surabaya
-- 💼 **Focus Areas:** Scalable Backend Systems, Predictive Modeling, and Cloud Migration
-- 🌱 **Currently Learning:** Advanced System Design & Deepening Cloud Architecture
-- 🎯 **Goals:** To build impactful technology that bridges data and intuitive user experiences.
+- **🌱 Interested in Web Develop, App Develop ,Cloud Computing, Machine Learning, and System Design**
+- **💻 Experienced with laravel 12, Boostrap, PHP, JavaScript, Node.js, Express.js ,Supabase , MySQL, and Google Cloud Platform**
+- **🔧 Familiar with Postman, Antigravity, Visual Code Studio, Docker, Git, and REST APIs**
+- **📊 Passionate about Data Analysis and Predictive Systems**
 
 ---
 
@@ -74,8 +74,12 @@ I am passionate about building scalable web applications, designing robust cloud
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Rifqi-Ardani&show_icons=true&theme=radium&hide_border=true" alt="Rifqi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Rifqi-Ardani&theme=radium&hide_border=true" alt="Rifqi's GitHub Streak" width="48%" />
+  <a href="https://github.com/ARDN26">
+    <img src="https://github-readme-stats.vercel.app/api?username=ARDN26&show_icons=true&theme=radium&hide_border=true" alt="ARDN26's GitHub Stats" />
+  </a>
+  <a href="https://github.com/ARDN26">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARDN26&theme=radium&hide_border=true" alt="ARDN26's GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
