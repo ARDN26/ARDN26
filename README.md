@@ -73,14 +73,19 @@
 
 ### 📈 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/ARDN26">
-    <img src="https://github-readme-stats.vercel.app/api?username=ARDN26&show_icons=true&theme=radium&hide_border=true" alt="ARDN26's GitHub Stats" />
+<div align="center">
+  <a href="https://github.com/ARDN26?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-15-blue?style=flat-square" alt="Repositories" />
   </a>
-  <a href="https://github.com/ARDN26">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARDN26&theme=radium&hide_border=true" alt="ARDN26's GitHub Streak" />
+  <a href="https://github.com/ARDN26?tab=followers">
+    <img src="https://img.shields.io/github/followers/EgoWidiarto?style=flat-square" alt="Followers" />
   </a>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=ARDN26&color=blue&style=flat-square" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ARDN26&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
 
 <p align="center">
   <em>⭐ Feel free to explore my repositories and reach out for collaborations!</em>
